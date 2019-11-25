@@ -10,6 +10,10 @@
 
 /* Basic */
 
+	#skel-layers-hiddenWrapper {
+		display: none;
+	}
+
 	body {
 		background: #fff;
 	}
